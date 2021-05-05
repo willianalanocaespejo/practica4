@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/Carlos/NetBeansProjects/TE_Tareas_Mysql_CRUD/src/java/com/emergentes/modelo/Tarea.java</file>
+            <file>file:/home/Carlos/NetBeansProjects/TE_Tareas_Mysql_CRUD/src/java/com/emergentes/ConexionDB.java</file>
+            <file>file:/home/Carlos/NetBeansProjects/TE_Tareas_Mysql_CRUD/src/java/com/emergentes/controlador/MainController.java</file>
+            <file>file:/home/Carlos/NetBeansProjects/TE_Tareas_Mysql_CRUD/web/index.jsp</file>
+            <file>file:/home/Carlos/NetBeansProjects/TE_Tareas_Mysql_CRUD/web/editar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
